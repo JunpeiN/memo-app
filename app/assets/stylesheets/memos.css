@@ -1,0 +1,38 @@
+/*ヘッダー部分*/
+.head_main{
+  display: flex;
+}
+
+.app_name{
+  margin: 20px;
+}
+
+.u_name{
+  margin-left: 60px;
+}
+
+.menu{
+  margin-left: 10px;
+}
+/*メモ部分*/
+.main_up{
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+}
+
+.input{
+  margin-left: 30px;
+}
+.search_ran{
+  margin-left: 30px;
+}
+.search{
+  margin-left: 30px;
+}
+
+.main_down{
+  text-align: center;
+  background-color: burlywood;
+}
+
